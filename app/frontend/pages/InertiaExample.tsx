@@ -13,7 +13,6 @@ export default function InertiaExample({name}: { name: string }) {
     return (
         <>
             <Head title="Inertia + Vite Ruby + React Example"/>
-            <Head title="Inertia + Vite Ruby + React Example"/>
 
 
             <div className={cs.root}>
